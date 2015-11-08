@@ -25,6 +25,7 @@ function initialize(){
   }
   tileIndex[tiles.length] = 15;
 }
+
 function setId(elem,indx){
   elem.id = indx;
 }
